@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
 body{
-    background:url(img/light-man_copy.jpg)50% 130px no-repeat;
+    background:url(img/Ellipse_1_copy.png)50% 130px no-repeat;
 }
 
 .content {
@@ -96,7 +96,7 @@ body{
 .content-bottom_info_list li:nth-child(2):hover {
     color: #d76a6aed;
     font-weight: normal;
-    background:url(/icon/check_icon.png) no-repeat;
+    background:url(icon/check_icon\ —\ red.png) no-repeat;
 }
 .content-bottom_info_list li:nth-child(3) {
     color: #273d46;
