@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Project"
+		},
+		{
+			"path": "..\\..\\Project10scc"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project"
+	},
+	"liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}
